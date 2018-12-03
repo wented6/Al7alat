@@ -95,3 +95,14 @@ client.on('ready', () => {
   client.user.setActivity(" اخفض صوت العالم وارفع صوت الموسيقى $: ",{type: 'LISTENING'})
 
 });
+
+
+
+
+
+
+
+
+
+
+client.login(process.env.BOT_TOKEN);
